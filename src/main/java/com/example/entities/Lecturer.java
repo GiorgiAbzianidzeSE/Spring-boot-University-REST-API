@@ -4,7 +4,6 @@ import java.util.*;
 
 import com.example.entities.embeddables.Address;
 import com.example.entities.embeddables.PersonalInformation;
-import com.example.entities.enums.Gender;
 
 import jakarta.persistence.*;
 import lombok.*;
